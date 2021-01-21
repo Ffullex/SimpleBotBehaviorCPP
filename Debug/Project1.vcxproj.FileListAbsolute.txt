@@ -1,0 +1,2 @@
+C:\Томановский Ярослав\Процкаем\CPPServer\Project1\Debug\Project1.exe
+C:\Томановский Ярослав\Процкаем\CPPServer\Project1\Debug\Project1.pdb
