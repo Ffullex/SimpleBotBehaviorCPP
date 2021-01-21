@@ -1,0 +1,1 @@
+Primitive bot behavior
